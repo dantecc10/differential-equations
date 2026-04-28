@@ -17,5 +17,8 @@ si $f(t) = c = 1$ para $\mathcal{L} \\{1\\} = \int_{0}^{\infty} 1e^{-st}dt = - \
 
 *Lo que sea $\neq t$ es considerado una constante.
 
-Esto se evalúa como $[- \frac{1}{s} \cdot e^{-s \cdot \infty}] - [- \frac{1}{s} \cdot e^{-s \cdot 0}] = [- \frac{1}{s \cdot e^{s \cdot \infty}}] - [- \frac{1}{s \cdot e^{s \cdot 0}}$.
+Esto se evalúa como $[- \frac{1}{s} \cdot e^{-s \cdot \infty}] - [- \frac{1}{s} \cdot e^{-s \cdot 0}] = [- \frac{1}{s \cdot e^{s \cdot \infty}}] - [- \frac{1}{s \cdot e^{s \cdot 0}}]$.
 
+Aplicando las potencias a los exponenciales:
+
+$[- \frac{1}{s \cdot e^{\infty s}}] - [- \frac{1}{s \cdot e^{0}}] = [- \frac{1}{s \cdot e^{\infty}}] - [- \frac{1}{s \cdot 1}] = [- \frac{1}{s \cdot \infty}] - [- \frac{1}{s}]$
