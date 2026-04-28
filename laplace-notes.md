@@ -12,3 +12,5 @@ La fórmula de la Transformada de Laplace es $\mathcal{L} \{f(t)\} = \int_{-\inf
 $s$ es otra variable.
 
 $\mathcal{L} \{f(t)\} = \int_{0}^{\infty} f(t)e^{-st}dt$ $\to$ causales.
+
+si $f(t) = c = 1$ para $\mathcal{L} \{1\} = \int_{0}^{\infty} 1e^{-st}dt = - \frac{1}{s} \cdot e^{-st}|_{0^\infty}$
