@@ -13,7 +13,9 @@ $s$ es otra variable.
 
 $\mathcal{L} \\{f(t)\\} = \int_{0}^{\infty} f(t)e^{-st}dt$ $\to$ causales.
 
-si $f(t) = c = 1$ para $\mathcal{L} \\{1\\} = \int_{0}^{\infty} 1e^{-st}dt = - \frac{1}{s} \cdot e^{-st}|_{0}^{\infty} = [- \frac{1}{s} \cdot e^{-st}] - [- \frac{1}{s} \cdot e^{-s \cdot 0}]$*.
+si $f(t) = c = 1$ para $\mathcal{L} \\{1\\} = \int_{0}^{\infty} 1e^{-st}dt = - \frac{1}{s} \cdot e^{-st}|_{0}^{\infty}$*.
 
 *Lo que sea $\neq t$ es considerado una constante.
+
+Esto se evalúa como $[- \frac{1}{s} \cdot e^{-st}] - [- \frac{1}{s} \cdot e^{-s \cdot 0}]$.
 
