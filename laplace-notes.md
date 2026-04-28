@@ -21,4 +21,5 @@ Esto se evalúa como $[- \frac{1}{s} \cdot e^{-s \cdot \infty}] - [- \frac{1}{s}
 
 Aplicando las potencias a los exponenciales:
 
-$[- \frac{1}{s \cdot e^{\infty s}}] - [- \frac{1}{s \cdot e^{0}}] = [- \frac{1}{s \cdot e^{\infty}}] - [- \frac{1}{s \cdot 1}] = [- \frac{1}{s \cdot \infty}] - [- \frac{1}{s}]$
+$[- \frac{1}{s \cdot e^{\infty s}}] - [- \frac{1}{s \cdot e^{0}}] = [- \frac{1}{s \cdot e^{\infty}}] - [- \frac{1}{s \cdot 1}] = [- \frac{1}{s \cdot \infty}] - [- \frac{1}{s}] = [- \frac{1}{\infty}] - [- \frac{1}{s}] = [- (0)] - [- \frac{1}{s}] = - [- \frac{1}{s}] = \frac{1}{s}$
+
