@@ -26,3 +26,7 @@ $[- \frac{1}{s \cdot e^{\infty s}}] - [- \frac{1}{s \cdot e^{0}}] = [- \frac{1}{
 Con esto, se obtiene $\frac{1}{s}$ como resultado de una función $f(t) = 1$ pasado por el operador de la Transformada de Laplace. Este al ser lineal, permite plantear lo siguiente:
 
 $\mathcal{L} \\{1\\} = \frac{1}{s} \therefore \mathcal{L} \\{k\\} = k \cdot \mathcal{L} \\{1\\} = \frac{k}{s}$
+
+Y, considerando el operador inverso de la Transformada de Laplace:
+
+$\mathcal{L}^{-1} \\{\frac{1}{s}\\} = 1$ y $\mathcal{L}^{-1} \\{\frac{k}{s}\\} = k$.
