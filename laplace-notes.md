@@ -63,4 +63,4 @@ $[(- \frac{\infty}{se^{s \infty}}) + 0] + (\frac{1}{s}) \cdot [- \frac{1}{se^{st
 
 $[0 + 0] + (\frac{1}{s}) \cdot ([- \frac{1}{se^{s \cdot \infty}}] - [- \frac{1}{se^{s \cdot 0}}]) = 0 + (\frac{1}{s}) \cdot ([- \frac{1}{se^{s \infty}}] - [- \frac{1}{se^{0}}])$
 
-$(\frac{1}{s}) \cdot ([- 0] + [\frac{1}{s \cdot 1}])$
+$(\frac{1}{s}) \cdot ([- 0] + [\frac{1}{s \cdot 1}]) = (\frac{1}{s}) \cdot (\frac{1}{s}) = (\frac{1}{s^2})$
