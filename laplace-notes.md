@@ -54,3 +54,5 @@ $$
 $$
 
 $[(- \frac{\infty}{s} \cdot e^{-s \cdot \infty}) - (- \frac{0}{s} \cdot e^{-s \cdot 0})] - [(- \frac{1}{s}) \cdot \int_{0}^{\infty} e^{-st} \cdot dt]$
+
+$[(- \frac{\infty}{s} \cdot e^{-s \infty}) - (- \frac{0}{s} \cdot e^{0})] + [(\frac{1}{s}) \cdot \int_{0}^{\infty} e^{-st} \cdot dt]$
