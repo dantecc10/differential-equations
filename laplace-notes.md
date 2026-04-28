@@ -39,6 +39,6 @@ Desarrollamos la integral:
 
 $\int_{0}^{\infty} t \cdot e^{-st} dt$, donde aplicaré una integración por partes con variables:
 
-$(u = t) \threfore (du = dt)$
+$(u = t) \therefore (du = dt)$
 
 $(dv = e^{-st}) \therefore (v = - \frac{1}{s} \cdot e^{-st})$
