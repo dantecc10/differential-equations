@@ -30,3 +30,15 @@ $\mathcal{L} \\{1\\} = \frac{1}{s} \therefore \mathcal{L} \\{k\\} = k \cdot \mat
 Y, considerando el operador inverso de la Transformada de Laplace:
 
 $\mathcal{L}^{-1} \\{\frac{1}{s}\\} = 1$ y $\mathcal{L}^{-1} \\{\frac{k}{s}\\} = k$.
+
+Ahora, para una función $f(t) = t$ el desarrollo sería:
+
+$\mathcal{L} \\{f(t)\\} = \int_{0}^{\infty} t \cdot e^{-st} dt$.
+
+Desarrollamos la integral:
+
+$\int_{0}^{\infty} t \cdot e^{-st} dt$, donde aplicaré una integración por partes con variables:
+
+$(u = t) \threfore (du = dt)$
+
+$(dv = e^{-st}) \therefore (v = - \frac{1}{s} \cdot e^{-st})$
