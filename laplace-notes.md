@@ -57,5 +57,5 @@ $[(- \frac{\infty}{s} \cdot e^{-s \cdot \infty}) - (- \frac{0}{s} \cdot e^{-s \c
 
 $[(- \frac{\infty}{s} \cdot e^{-s \infty}) - (- \frac{0}{s} \cdot e^{0})] + [(\frac{1}{s}) \cdot \int_{0}^{\infty} e^{-st} \cdot dt]$
 
-$[(- \frac{\infty}{s \cdot e^{s \infty}}) - (- 0 \cdot 1)] + (\frac{1}{s}) \cdot [- \frac{1}{s} \cdot e^{-st}]$
+$[(- \frac{\infty}{s \cdot e^{s \infty}}) - (- 0 \cdot 1)] + (\frac{1}{s}) \cdot [- \frac{1}{s} \cdot e^{-st}] = [(- \frac{\infty}{se^{s \infty}}) - (- 0)] + (\frac{1}{s}) \cdot [- \frac{1}{s \cdot e^{-st}}]$
 
