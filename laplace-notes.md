@@ -23,3 +23,6 @@ Aplicando las potencias a los exponenciales:
 
 $[- \frac{1}{s \cdot e^{\infty s}}] - [- \frac{1}{s \cdot e^{0}}] = [- \frac{1}{s \cdot e^{\infty}}] - [- \frac{1}{s \cdot 1}] = [- \frac{1}{s \cdot \infty}] - [- \frac{1}{s}] = [- \frac{1}{\infty}] - [- \frac{1}{s}] = [- (0)] - [- \frac{1}{s}] = - [- \frac{1}{s}] = \frac{1}{s}$
 
+Con esto, se obtiene $\frac{1}{s}$ como resultado de una función $f(t) = 1$ pasado por el operador de la Transformada de Laplace. Este al ser lineal, permite plantear lo siguiente:
+
+$\mathcal{L} \\{1\\} = \frac{1}{s} \therefore \mathcal{L} \\{k\\} = k \cdot \mathcal{L} \\{1\\} = \frac{k}{s}$
