@@ -67,4 +67,8 @@ $[0 + 0] + (\frac{1}{s}) \cdot ([- \frac{1}{se^{s \cdot \infty}}] - [- \frac{1}{
 
 $(\frac{1}{s}) \cdot ([- 0] + [\frac{1}{s \cdot 1}]) = (\frac{1}{s}) \cdot (\frac{1}{s}) = (\frac{1}{s^2})$
 
-$\mathcal{L}\\{f(t)\\} = \frac{1}{s^2}$
+$\mathcal{L}\\{f(t) = t\\} = \frac{1}{s^2}$
+
+Por lo que podemos decir que:
+
+$\mathcal{L}\\{kt\\} = \frac{k}{s^2}$ y que $\mathcal{L}^{-1}\\{\frac{k}{s^2}\\} = kt$
