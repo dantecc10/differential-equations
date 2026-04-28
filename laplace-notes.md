@@ -41,4 +41,4 @@ $\int_{0}^{\infty} t \cdot e^{-st} dt$, donde aplicaré una integración por par
 
 $(u = t) \therefore (du = dt)$
 
-$(dv = e^{-st}) \therefore (v = - \frac{1}{s} \cdot e^{-st})$
+$(dv = e^{-st}) \therefore (v = \int v = - \frac{1}{s} \cdot e^{-st})$
