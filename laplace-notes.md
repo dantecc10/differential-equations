@@ -49,8 +49,10 @@ Aplicando la fórmula:
 
 $\int u \cdot dv = u \cdot v - \int v \cdot du \to \int_{0}^{\infty} t \cdot e^{-st} = t \cdot (- \frac{1}{s} \cdot e^{-st}) - \int_{0}^{\infty} (- \frac{1}{s} \cdot e^{-st}) \cdot dt$
 
+<div align="left">
 $$
 [(- \frac{t}{s} \cdot e^{-st})]|_{0}^{\infty} - [\int_{0}^{\infty} (- \frac{1}{s} \cdot e^{-st}) \cdot dt]
 $$
+</div>
 
 $[(- \frac{\infty}{s} \cdot e^{-s \cdot \infty}) - (- \frac{0}{s} \cdot e^{-s \cdot 0})] - [(- \frac{1}{s}) \cdot \int_{0}^{\infty} e^{-st} \cdot dt]$
