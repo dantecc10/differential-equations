@@ -45,3 +45,6 @@ $(u = t) \therefore (du = dt)$
 
 $(dv = e^{-st}) \therefore (v = \int dv = - \frac{1}{s} \cdot e^{-st})$
 
+Aplicando la fórmula:
+
+$\int u \cdot dv = u \cdot v - \int v \cdot du \to \int t \cdot e^{-st} = t \cdot (- \frac{1}{s} \cdot e^{-st}) - \int (- \frac{1}{s} \cdot e^{-st}) \cdot dt$
