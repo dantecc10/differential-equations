@@ -60,3 +60,6 @@ $[(- \frac{\infty}{s} \cdot e^{-s \infty}) - (- \frac{0}{s} \cdot e^{0})] + [(\f
 $[(- \frac{\infty}{s \cdot e^{s \infty}}) - (- 0 \cdot 1)] + (\frac{1}{s}) \cdot [- \frac{1}{s} \cdot e^{-st}] = [(- \frac{\infty}{se^{s \infty}}) - (- 0)] + (\frac{1}{s}) \cdot [- \frac{1}{s \cdot e^{st}}]$
 
 $[(- \frac{\infty}{se^{s \infty}}) + 0] + (\frac{1}{s}) \cdot [- \frac{1}{se^{st}}] = [(- 0) + 0] + [- \frac{1}{s^{2}e^{st}}]$
+
+$[0 + 0] + [- \frac{1}{s^{2}e^{st}}]$
+
