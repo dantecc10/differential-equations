@@ -87,4 +87,6 @@ $[\frac{1}{(a - s)} \cdot e^{(a \infty - s \infty)}] - [\frac{1}{(a - s)} \cdot 
 
 $[\frac{e^{\infty}}{(a - s) \cdot e^{(s \infty)})}] - [\frac{1}{(a - s)}] = [\frac{e^{\infty}}{(a \cdot e^{(\infty)} - s \cdot e^{(\infty)})}] - [\frac{1}{(a - s)}]$
 
-$[\frac{e^{\infty}}{(a \cdot e^{(\infty)} - s \cdot e^{(\infty)})}] - [\frac{1}{(a - s)}]$
+$[\frac{e^{a \infty}}{(a \cdot e^{(s \infty)} - s \cdot e^{(s \infty)})}] - [\frac{1}{(a - s)}]$, considerando que $s > a$:
+
+$[\frac{e^{a \infty}}{(a e^{(s \infty)} - s e^{(s \infty)})}] - [\frac{1}{(a - s)}]
