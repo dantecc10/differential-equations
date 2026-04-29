@@ -82,3 +82,13 @@ Como todo lo que no es t se considera una constante, se puede hacer la integraci
 $\int_{0}^{\infty} e^{(a - s)(t)}dt = [\frac{1}{(a - s)} \cdot e^{(a - s)(t)}]|_{0}^{\infty}$
 
 Evaluación: $[\frac{1}{(a - s)} \cdot e^{(a - s)(\infty)}] - [\frac{1}{(a - s)} \cdot e^{(a - s)(0)}] \to [\frac{1}{(a - s)} \cdot e^{(a \infty - s \infty)}] - [\frac{1}{(a - s)} \cdot e^{0}]$
+
+$[\frac{1}{(a - s)} \cdot e^{(a \infty - s \infty)}] - [\frac{1}{(a - s)} \cdot 1]$
+
+$[\frac{1}{(a - s)} \cdot e^{(a \infty)} \cdot e^{(- s \infty)}] - [\frac{1}{(a - s)}]$
+
+$[\frac{1}{(a - s)} \cdot e^{(a \infty)} \cdot e^{(- s \infty)}] - [\frac{1}{(a - s)}]$
+
+$[\frac{e^{(\infty)}{(a - s) \cdot e^{(\infty)}}] - [\frac{1}{(a - s)}]$
+
+$[\frac{e^{(\infty)}}{(a \cdot e^{(\infty)} - s \cdot e^{(\infty)})}] - [\frac{1}{(a - s)}]$
