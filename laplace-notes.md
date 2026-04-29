@@ -91,11 +91,8 @@ Considerando que $s > a$:
 
 $[\frac{1}{(a - s)} \cdot 0] - [\frac{1}{(a - s)}] \to [0] - [\frac{1}{(a - s)}] \to - \frac{1}{(a - s)} = \frac{1}{(-1) \cdot (a - s)} \to \frac{1}{(s - a)}$
 
+$\therefore f(t) = e^{at} \to \mathcal{L}\\{f(t)\\} = \frac{1}{(s - a)}$, por ejemplo:
 
-Algo
+Si $f(t) = e^{4t}$, entonces $\mathcal{L}\\{4t\\} = \frac{1}{(s - 4)}$ y si $f(t) = e^{-4t}$, entonces $\mathcal{L}\\{-4t\\} = \frac{1}{(s + 4)}$.
 
-$[\frac{e^{\infty}}{(a - s) \cdot e^{(s \infty)})}] - [\frac{1}{(a - s)}] = [\frac{e^{\infty}}{(a \cdot e^{(\infty)} - s \cdot e^{(\infty)})}] - [\frac{1}{(a - s)}]$
-
-$[\frac{e^{a \infty}}{(a \cdot e^{(s \infty)} - s \cdot e^{(s \infty)})}] - [\frac{1}{(a - s)}]$, considerando que $s > a$:
-
-$[\frac{e^{a \infty}}{(a e^{(s \infty)} - s e^{(s \infty)})}] - [\frac{1}{(a - s)}]$
+De la misma forma, usando el operador inverso: si $f(t) = e^{4t}$, entonces $\mathcal{L}^{-1}\\{\frac{1}{(s - 4)}\\} = 4t$.
