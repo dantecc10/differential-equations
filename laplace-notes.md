@@ -80,3 +80,5 @@ $\mathcal{L}\\{e^{at}\\} = \int_{0}^{\infty} e^{at} \cdot e^{-st}dt \to \int_{0}
 Como todo lo que no es t se considera una constante, se puede hacer la integración directamente en la forma $e^{ax}$:
 
 $\int_{0}^{\infty} e^{(a - s)(t)}dt = [\frac{1}{(a - s)} \cdot e^{(a - s)(t)}]|_{0}^{\infty}$
+
+Evaluación: $[\frac{1}{(a - s)} \cdot e^{(a - s)(\infty)}] - [\frac{1}{(a - s)} \cdot e^{(a - s)(0)}] \to [\frac{1}{(a - s)} \cdot e^{(a \infty - s \infty)}] - [\frac{1}{(a - s)} \cdot e^{0}]$
