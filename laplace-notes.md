@@ -75,4 +75,8 @@ $\mathcal{L}\\{kt\\} = \frac{k}{s^2}$ y que $\mathcal{L}^{-1}\\{\frac{k}{s^2}\\}
 
 Ahora, si la función $f(t) = e^{at}$:
 
-$\mathcal{L}\\{e^{at}\\} = \int_{0}^{\infty} e^{at} \cdot e^{-st}dt \to \mathcal{L}\\{e^{at}\\} = \int_{0}^{\infty} e^{at - st}dt = \int_{0}^{\infty} e^{(a - s)(t)}dt$
+$\mathcal{L}\\{e^{at}\\} = \int_{0}^{\infty} e^{at} \cdot e^{-st}dt \to \int_{0}^{\infty} e^{at - st}dt \to \int_{0}^{\infty} e^{(a - s)(t)}dt$
+
+Como todo lo que no es t se considera una constante, se puede hacer la integración directamente en la forma $e^{ax}$:
+
+$\int_{0}^{\infty} e^{(a - s)(t)}dt = [\frac{1}{(a - s)} \cdot e^{(a - s)(t)}]|_{0}^{\infty}$
